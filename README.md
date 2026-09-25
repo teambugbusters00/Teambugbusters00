@@ -1,4 +1,5 @@
 # 💫 About Me
+SDE | Forward Deployed Engineering | Agentic Al, GenAI, LLMs, RAG, Prompt Engineering | Full-Stack: Python, FastAPI, MERN | DSA | Edge AI & loT | Cloud AWS/GCP
 Building leadership, outreach, and community engagement skills while pursuing a **B.Tech in Artificial Intelligence & Machine Learning at JIET Group of Institutions**.
 
 Founder of **KLYRO Labs**, a technology agency focused on **AI, Machine Learning, and Full-Stack Development**.  
