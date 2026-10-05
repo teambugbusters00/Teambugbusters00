@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient><style>.t{font-family:Arial,sans-serif;fill:#f5f7fb}.m{font-family:monospace;fill:#a8b4c8}@media(prefers-reduced-motion:reduce){.a{animation:none}}.a{animation:r 1s ease-out both}@keyframes r{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}</style></defs><rect width="1200" height="420" rx="28" fill="#070b16"/><rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="url(#g)" stroke-opacity=".7"/><g class="a"><text x="60" y="72" class="m" font-size="17">&gt; PROFILE / AI × SYSTEMS × BUILD</text><text x="60" y="150" class="t" font-size="58" font-weight="800">VIJAY RAMDEV</text><text x="60" y="195" fill="#247bff" font-family="Arial" font-size="24" font-weight="700">AI/ML • GENAI • FULL-STACK • EDGE AI</text><text x="60" y="245" class="m" font-size="17">B.Tech CSE (AI &amp; ML) · JIET Group of Institutions</text><text x="60" y="278" class="m" font-size="17">Building practical AI systems, software products and experiments.</text><rect x="60" y="322" width="1000" height="2" fill="url(#g)"/><text x="60" y="365" class="m" font-size="15">Jodhpur, Rajasthan, India · Agentic AI · LLMs · RAG · ML · FastAPI · React · Cloud · IoT</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#247bff" stop-opacity=".25"/><stop offset="1" stop-color="#247bff" stop-opacity="0"/></radialGradient>
+ <style>
+ .bg{fill:#070b16}.t{font-family:Arial,sans-serif;fill:#f5f7fb}.m{font-family:monospace;fill:#a8b4c8}
+ .in{animation:rise 1s ease-out both}@keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+ @media(prefers-reduced-motion:reduce){.in{animation:none}}
+ </style>
+</defs>
+<rect width="1200" height="520" rx="32" class="bg"/>
+<circle cx="1000" cy="100" r="280" fill="url(#glow)"/>
+<rect x="1" y="1" width="1198" height="518" rx="31" fill="none" stroke="url(#g)" stroke-width="2"/>
+<g class="in">
+<text x="60" y="64" class="m" font-size="16">01 / GITHUB PROFILE · IDENTITY SYSTEM</text>
+<text x="60" y="145" class="m" font-size="18">&gt; HELLO, I'M</text>
+<text x="60" y="225" class="t" font-size="68" font-weight="800">VIJAY RAMDEV</text>
+<rect x="60" y="250" width="780" height="3" fill="url(#g)"/>
+<text x="60" y="302" class="t" font-size="23" font-weight="700">SDE · FORWARD DEPLOYED ENGINEERING</text>
+<text x="60" y="338" class="m" font-size="17">Agentic AI · GenAI · LLMs · RAG · Prompt Engineering</text>
+<text x="60" y="368" class="m" font-size="17">Full-Stack: Python, FastAPI, MERN · DSA · Edge AI &amp; IoT · Cloud AWS/GCP</text>
+<text x="60" y="420" class="m" font-size="16">B.Tech in Artificial Intelligence &amp; Machine Learning · JIET Group of Institutions</text>
+<text x="60" y="458" class="m" font-size="15">Founder · KLYRO Labs</text>
+<g transform="translate(930 300)">
+ <circle r="95" fill="#0d1628" stroke="#247bff" stroke-opacity=".55"/>
+ <circle cy="-18" r="28" fill="none" stroke="#f5f7fb" stroke-width="3"/>
+ <path d="M-48 62 Q0 8 48 62" fill="none" stroke="#f5f7fb" stroke-width="3"/>
+ <path d="M-58 75 Q0 32 58 75" fill="none" stroke="#ff354f" stroke-width="2"/>
+</g>
+</g></svg>
