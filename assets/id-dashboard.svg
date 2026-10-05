@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient><style>.t{font-family:Arial,sans-serif;fill:#f5f7fb}.m{font-family:monospace;fill:#a8b4c8}</style></defs><rect width="1200" height="430" rx="28" fill="#070b16"/><rect x="1" y="1" width="1198" height="428" rx="27" fill="none" stroke="url(#g)" stroke-opacity=".6"/><text x="50" y="58" class="m" font-size="16">03 / ID DASHBOARD</text><rect x="50" y="90" width="1100" height="285" rx="24" fill="#0d1628" stroke="#247bff" stroke-opacity=".35"/><text x="85" y="145" class="t" font-size="30" font-weight="800">VIJAY RAMDEV</text><text x="85" y="180" class="m" font-size="17">AI/ML · GenAI · Full-Stack · Edge AI</text><text x="85" y="225" class="t" font-size="18" font-weight="700">FOCUS</text><text x="85" y="252" class="m" font-size="15">Agentic AI · LLMs · RAG · ML systems</text><text x="85" y="278" class="m" font-size="15">FastAPI · React · Cloud · IoT</text><text x="85" y="315" class="t" font-size="18" font-weight="700">EDUCATION</text><text x="85" y="340" class="m" font-size="15">B.Tech CSE (AI &amp; ML) · JIET Group of Institutions</text><text x="880" y="340" class="m" font-size="13">PROFILE / 2026</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient><style>.t{font-family:Arial,sans-serif;fill:#f5f7fb}.m{font-family:monospace;fill:#a8b4c8}.card{fill:#0d1628;stroke:#247bff;stroke-opacity:.4}</style></defs>
+<rect width="1200" height="520" rx="32" fill="#070b16"/><rect x="1" y="1" width="1198" height="518" rx="31" fill="none" stroke="url(#g)" stroke-opacity=".7"/>
+<text x="50" y="58" class="m" font-size="16">04 / ID DASHBOARD · PROFILE RECORD</text>
+<path d="M590 0v95" stroke="#b8c2d1" stroke-width="4"/><circle cx="590" cy="105" r="15" fill="none" stroke="#b8c2d1" stroke-width="4"/>
+<g transform="translate(150 125) rotate(-1.7 440 170)">
+<rect width="880" height="300" rx="28" class="card"/><rect x="25" y="25" width="8" height="250" rx="4" fill="url(#g)"/>
+<text x="65" y="75" class="t" font-size="30" font-weight="800">VIJAY RAMDEV</text>
+<text x="65" y="108" class="m" font-size="16">SDE · Forward Deployed Engineering</text>
+<text x="65" y="152" class="t" font-size="17" font-weight="700">FOCUS</text>
+<text x="65" y="180" class="m" font-size="15">Agentic AI · GenAI · LLMs · RAG · Prompt Engineering</text>
+<text x="65" y="207" class="m" font-size="15">Full-Stack: Python, FastAPI, MERN · DSA · Edge AI &amp; IoT</text>
+<text x="65" y="234" class="m" font-size="15">Cloud AWS/GCP</text>
+<text x="65" y="267" class="t" font-size="16" font-weight="700">EDUCATION</text>
+<text x="190" y="267" class="m" font-size="14">B.Tech in Artificial Intelligence &amp; Machine Learning · JIET Group of Institutions</text>
+<rect x="705" y="45" width="120" height="120" rx="18" fill="#101c31" stroke="#ff354f" stroke-opacity=".45"/>
+<circle cx="765" cy="85" r="22" fill="none" stroke="#f5f7fb" stroke-width="3"/><path d="M725 142 Q765 105 805 142" fill="none" stroke="#f5f7fb" stroke-width="3"/>
+<g transform="translate(705 190)"><rect width="120" height="50" fill="#101c31"/><path d="M5 10h110M5 20h110M5 30h110M5 40h110" stroke="#a8b4c8" stroke-width="2"/></g>
+</g></svg>
