@@ -1,3 +1,15 @@
+![Hero](./assets/hero.svg?v=1)
+
+<p align="center">
+  <a href="https://github.com/teambugbusters00"><b>GitHub</b></a> ·
+  <a href="https://linkedin.com/in/vijay----jangid"><b>LinkedIn</b></a> ·
+  <a href="https://www.instagram.com/vijay.jangid__"><b>Instagram</b></a> ·
+  <a href="https://x.com/_x__yh_"><b>X</b></a> ·
+  <a href="https://medium.com/@Vijay-ramdev-18564f352aa6e"><b>Medium</b></a>
+</p>
+
+![About](./assets/about-life.svg?v=1)
+
 # 💫 About Me
 SDE | Forward Deployed Engineering | Agentic Al, GenAI, LLMs, RAG, Prompt Engineering | Full-Stack: Python, FastAPI, MERN | DSA | Edge AI & loT | Cloud AWS/GCP
 Building leadership, outreach, and community engagement skills while pursuing a **B.Tech in Artificial Intelligence & Machine Learning at JIET Group of Institutions**.
@@ -13,6 +25,8 @@ Interested in:
 - Open Source
 
 ---
+
+![Stack](./assets/stack.svg?v=1)
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vijay.jangid__)  
@@ -89,6 +103,8 @@ Interested in:
 
 ---
 
+![Identity Dashboard](./assets/id-dashboard.svg?v=1)
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Teambugbusters00&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -125,4 +141,14 @@ Interested in:
 
 # 👀 Visitor Counter
 [![](https://visitcount.itsvg.in/api?id=Teambugbusters00&icon=5&color=0)](https://visitcount.itsvg.in)
-.
+
+---
+
+![Connect](./assets/connect.svg?v=1)
+
+### Connect
+[LinkedIn](https://linkedin.com/in/vijay----jangid) ·
+[Instagram](https://www.instagram.com/vijay.jangid__) ·
+[X](https://x.com/_x__yh_) ·
+[Medium](https://medium.com/@Vijay-ramdev-18564f352aa6e) ·
+[Email](mailto:jopingvijay47@gmail.com)
