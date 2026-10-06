@@ -1,6 +1,10 @@
 ![Hero](./assets/hero.svg?v=1)
 
 <p align="center">
+  <img src="./assets/profile.jpg?v=2" alt="Vijay Ramdev" width="220" />
+</p>
+
+<p align="center">
   <a href="https://github.com/teambugbusters00"><b>GitHub</b></a> ·
   <a href="https://linkedin.com/in/vijay----jangid"><b>LinkedIn</b></a> ·
   <a href="https://www.instagram.com/vijay.jangid__"><b>Instagram</b></a> ·
