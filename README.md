@@ -119,17 +119,17 @@ Interested in:
 ---
 
 # 📈 Contribution Activity Graph
-[![Vijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Teambugbusters00&theme=github-compact)](https://github.com/Teambugbusters00)
+![Vijay GitHub contribution activity](./profile/contributions.dark.svg?v=2)
 
 ---
 
 # 🐍 Contribution Snake
-![snake gif](https://github.com/Teambugbusters00/Teambugbusters00/blob/output/github-contribution-grid-snake.svg)
+![snake gif](./profile/github-snake-dark.svg?v=2)
 
 ---
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Teambugbusters00&theme=algolia&no-frame=false&margin-w=4)
+![GitHub profile achievements and stats](./profile/overview.dark.svg?v=2)
 
 ---
 
@@ -139,12 +139,12 @@ Interested in:
 ---
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Teambugbusters00&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top contributed repositories](./profile/repositories.dark.svg?v=2)
 
 ---
 
 # 👀 Visitor Counter
-[![](https://visitcount.itsvg.in/api?id=Teambugbusters00&icon=5&color=0)](https://visitcount.itsvg.in)
+![Profile statistics](./profile/overview.dark.svg?v=2)
 
 ---
 
