@@ -1,0 +1,37 @@
+name: Refresh Profile Cards
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate self-hosted profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          cards: overview,contributions,repositories,languages
+          output-dir: profile
+          themes: dark
+          commit: true
+          commit-message: "chore(profile): refresh self-hosted cards [skip ci]"
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-snake.svg
+            profile/github-snake-dark.svg?palette=github-dark
