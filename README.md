@@ -119,17 +119,17 @@ Interested in:
 ---
 
 # 📈 Contribution Activity Graph
-![Vijay GitHub contribution activity](./profile/contributions.dark.svg?v=2)
+![Vijay GitHub contribution activity](./profile/contributions.dark.png?v=3)
 
 ---
 
 # 🐍 Contribution Snake
-![snake gif](./profile/github-snake-dark.svg?v=2)
+![snake gif](./profile/github-snake-dark.svg?v=3)
 
 ---
 
 # 🏆 GitHub Trophies
-![GitHub profile achievements and stats](./profile/overview.dark.svg?v=2)
+![GitHub profile achievements and stats](./profile/overview.dark.png?v=3)
 
 ---
 
@@ -139,7 +139,7 @@ Interested in:
 ---
 
 # 🔝 Top Contributed Repo
-![Top contributed repositories](./profile/repositories.dark.svg?v=2)
+![Top contributed repositories](./profile/repositories.dark.png?v=3)
 
 ---
 
