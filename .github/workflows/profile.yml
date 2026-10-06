@@ -27,6 +27,27 @@ jobs:
           themes: dark
           commit: false
 
+      - name: Make generated SVGs static
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          for p in Path("profile").glob("*.svg"):
+              s = p.read_text()
+              s = s.replace(
+                  ".fade{opacity:0;animation:fade .5s ease .1s forwards}",
+                  ".fade{opacity:1}"
+              )
+              s = s.replace(
+                  ".iso{opacity:0;animation:rise .5s cubic-bezier(.2,.7,.3,1) forwards}",
+                  ".iso{opacity:1}"
+              )
+              s = s.replace(
+                  ".hbar{opacity:0;animation:growX .55s cubic-bezier(.2,.7,.3,1) forwards}",
+                  ".hbar{opacity:1}"
+              )
+              p.write_text(s)
+          PY
+
       - name: Convert cards to PNG for GitHub mobile compatibility
         run: |
           sudo apt-get update
@@ -55,10 +76,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git rebase origin/main
           git add profile/
           if git diff --cached --quiet; then
             echo "No profile asset changes."
           else
             git commit -m "chore(profile): refresh self-hosted assets [skip ci]"
-            git push
+            git push origin HEAD:main
           fi
