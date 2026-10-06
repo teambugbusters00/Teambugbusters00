@@ -21,10 +21,9 @@
 <text x="60" y="368" class="m" font-size="17">Full-Stack: Python, FastAPI, MERN · DSA · Edge AI &amp; IoT · Cloud AWS/GCP</text>
 <text x="60" y="420" class="m" font-size="16">B.Tech in Artificial Intelligence &amp; Machine Learning · JIET Group of Institutions</text>
 <text x="60" y="458" class="m" font-size="15">Founder · KLYRO Labs</text>
-<g transform="translate(930 300)">
- <circle r="95" fill="#0d1628" stroke="#247bff" stroke-opacity=".55"/>
- <circle cy="-18" r="28" fill="none" stroke="#f5f7fb" stroke-width="3"/>
- <path d="M-48 62 Q0 8 48 62" fill="none" stroke="#f5f7fb" stroke-width="3"/>
- <path d="M-58 75 Q0 32 58 75" fill="none" stroke="#ff354f" stroke-width="2"/>
-</g>
+<defs><clipPath id="avatarClip"><circle cx="930" cy="300" r="82"/></clipPath></defs>
+<circle cx="930" cy="300" r="95" fill="#0d1628" stroke="#247bff" stroke-opacity=".55"/>
+<image href="profile.jpg?v=2" x="848" y="218" width="164" height="164" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+<circle cx="930" cy="300" r="82" fill="none" stroke="#f5f7fb" stroke-width="2" opacity=".75"/>
+<circle cx="930" cy="300" r="95" fill="none" stroke="#ff354f" stroke-opacity=".45" stroke-width="2"/>
 </g></svg>
